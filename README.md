@@ -27,8 +27,8 @@
 ### Мои образовательные проекты в Яндекс.Практикуме
 
 1. **[Stellar Burgers](https://niksorfront.github.io/react-stellar-burger/)** - настоящая космическая бургерная, где любой может собрать и заказать бургер, регистрироваться и входить в свой аккаунт, просматривать свои и вообще все заказы. Всё это возможно благодаря React'у и Redux Toolkit'у, TypeScript'у и Webpack'у. Даже есть тестики на Zest и Cypress
-2. **Web-page project [Mesto](https://makarovaiuliia.github.io/mesto-project-ff/):** - Красивое и уютное собрание фоточек нашей группы. Использован прекрасный ванильный JS с интеграцией API и модальными окнами
-3. **Web-page project [Путешествия по России](https://makarovaiuliia.github.io/mesto-project-ff/):** - Простенький сайт с адаптивом, который помог закрепить HTML и CSS
+2. **[Mesto](https://niksorfront.github.io/mesto-project-bootcamp/):** - Красивое и уютное собрание фоточек нашей группы. Использован прекрасный ванильный JS с интеграцией API и модальными окнами
+3. **[Путешествия по России](https://niksorfront.github.io/russian-travel-bootcamp/):** - Простенький сайт с адаптивом, который помог закрепить HTML и CSS
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiksorFront&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niksorok&layout=compact)
